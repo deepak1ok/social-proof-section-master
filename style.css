@@ -2,6 +2,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -9,6 +10,8 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 15px;
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 main {
@@ -36,9 +39,7 @@ main {
     width: 21rem;
     display: flex;
     flex-direction: column;
-    margin-right: 15rem;
-    /* padding: 5rem; */
-    /* margin-bottom: 2rem; */
+    margin-right: 16rem;
 }
 
 .heading {
@@ -51,9 +52,9 @@ main {
 
 .rate {
     display: flex;
-    padding: 5px;
+    padding: 20px 8px 20px 8px;
     margin: 10px;
-    width: 20rem;
+    width: 24rem;
     height: 2rem;
     background-color: hsl(300, 24%, 96%);
     align-items: center;
@@ -116,8 +117,8 @@ main {
 }
 
 .block {
-    width: 275px;
-    height: 150px;
+    width: 335px;
+    height: 245px;
     background-color: hsl(300, 43%, 22%);
     margin: 1rem;
     padding: 2rem;
@@ -138,19 +139,19 @@ main {
 .coloton {
     display: flex;
     align-items: flex-start;
-    height: 300px;
+    height: 340px;
 }
 
 .irene {
     display: flex;
     align-items: center;
-    height: 300px;
+    height: 340px;
 }
 
 .anne {
     display: flex;
     align-items: flex-end;
-    height: 300px;
+    height: 340px;
 }
 
 @media(max-width:400px) {
@@ -173,3 +174,5 @@ main {
         align-items: center;
     }
 }
+
+@media (max-width:800px) and (max-width:1000px) {}
