@@ -17,7 +17,7 @@
 ### Links
 
 - Solution URL: (https://github.com/deepak1ok/social-proof-section-master.git)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://social-proof-section-master-deepak.netlify.app/)
 
 ## My process
 
