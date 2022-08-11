@@ -134,6 +134,10 @@ main {
     color: hsl(333, 80%, 67%);
 }
 
+h4 {
+    margin-bottom: 0.2rem;
+}
+
 .coloton {
     display: flex;
     align-items: flex-start;
