@@ -134,8 +134,9 @@ main {
     color: hsl(333, 80%, 67%);
 }
 
-h4 {
+h2 {
     margin-bottom: 0.2rem;
+    font-size: 15px;
 }
 
 .coloton {
